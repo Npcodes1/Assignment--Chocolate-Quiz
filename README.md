@@ -23,6 +23,6 @@
     - Contain a link to another html page, an answer key
     - Contain at least 2 images. You may use the images within the starter code or use your own
     - Hint: make sure you are using the “alt” attribute for all images.
-    - Use formatting tags (ex. <b>, <i>, <insert>, <mark>) and headings
+    - Use formatting tags (ex. bold, italic, insert, and mark tags) and headings.
     - Link to an external web page (this can be in the answer key)
 - SUBMISSION: Package all files into a zip file and submit the zip file.
