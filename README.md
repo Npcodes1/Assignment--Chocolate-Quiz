@@ -4,9 +4,9 @@
 
 # Purpose
 
-- I made this quiz as part of an assignment for the CodeSquad 2024 Mini Course I'm taking. The purpose of this project was to build a basic html site that involved linking pages, adding images, and writing proper html code. I was able to pick any topic I chose to for creating the quiz, so I decided to do one on chocolate to appeal to my love of it. I also added some personal touches by adding a little CSS to change the background color and add a border.
+- I made this quiz as part of an assignment for the CodeSquad 2024 Mini Course I'm taking before starting the bootcamp. The purpose of this project was to build a basic html site that involved linking pages, adding images, and writing proper html code. I was able to pick any topic I chose to for creating the quiz, so I decided to do one on chocolate to appeal to my love of it. I also added some personal touches by adding a little CSS to change the background color and add a border.
    
--  I'm doing a Mini Course to gain acceptance into CodeSquad's 2024 Full Stack Bootcamp. 
+-  I'm doing a Mini Course to gain acceptance into CodeSquad's 2024 Full Stack Bootcamp.
   
 # About CodeSquad
 
@@ -26,3 +26,7 @@
     - Use formatting tags (ex. bold, italic, insert, and mark tags) and headings.
     - Link to an external web page (this can be in the answer key)
 - SUBMISSION: Package all files into a zip file and submit the zip file.
+
+--------
+
+- Edit May 8, 2024- I've made a few edits to my code before I practice deploying it with GitHub pages as I'm currently learning about Deployment in the bootcamp.  
